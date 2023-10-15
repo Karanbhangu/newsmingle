@@ -1,0 +1,26 @@
+/* Common Styles for Both Light and Dark Modes */
+footer {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style for your name */
+footer p:first-child {
+  font-weight: bold;
+}
+
+/* Style for copyright text */
+footer p:nth-child(2) {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+/* Style for the GitHub link */
+footer a {
+  text-decoration: none;
+}
+
+/* Style for the GitHub link on hover */
+footer a:hover {
+  text-decoration: underline;
+}

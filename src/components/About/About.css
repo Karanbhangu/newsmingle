@@ -1,0 +1,26 @@
+/* About.css */
+
+.about {
+    padding: 20px;
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+  }
+  
+  .about h2 {
+    font-size: 24px; /* Larger font size for the heading */
+    color: #333; /* Dark gray text color for the heading */
+    margin-bottom: 10px;
+  }
+  
+  .about p {
+    color: #555; /* Slightly lighter text color for paragraphs */
+    margin: 10px 0;
+    font-size: 16px; /* Slightly larger font size for paragraphs */
+  }
+  
+  .about .highlighted {
+    color: #0070ff; /* Blue text color for highlighted keywords */
+    font-weight: bold; /* Bold for highlighted keywords */
+  }
+  
