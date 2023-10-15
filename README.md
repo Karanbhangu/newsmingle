@@ -51,7 +51,12 @@ To use the News App, follow these simple steps:
 
 ## Video Demonstration
 
-To view a demonstration of the app, please click the following link: [Watch Demo Video](https://youtu.be/lLrMnyi4Jcs).
+To view a demonstration of the app you can see the video below or please click the following link: [Watch Demo Video](https://youtu.be/lLrMnyi4Jcs).
+
+
+https://github.com/Karanbhangu/newsmingle/assets/70483109/f47f1e97-1905-4998-9c60-9832971351e3
+
+
 
 ## Contributing
 
